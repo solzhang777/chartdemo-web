@@ -1,4 +1,4 @@
-# education-admin
+# chart demo
 
 ## Project setup
 ```
